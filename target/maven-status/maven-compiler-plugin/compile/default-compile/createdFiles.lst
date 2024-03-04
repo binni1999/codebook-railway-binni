@@ -1,5 +1,5 @@
+com\codebook\api\config\CorsConfiguration.class
 com\codebook\api\entity\Order.class
-com\codebook\api\config\SecurityConfig$1.class
 com\codebook\api\config\SecurityConfig.class
 com\codebook\api\auth\UserLogin.class
 com\codebook\api\controller\ProductAPIController.class
@@ -22,6 +22,7 @@ com\codebook\api\service\ProductService.class
 com\codebook\api\repository\UserRepository.class
 com\codebook\api\models\JwtRequest.class
 com\codebook\api\models\UserLogged.class
+com\codebook\api\config\CorsConfiguration$1.class
 com\codebook\api\exception\ErrorDto.class
 com\codebook\api\repository\ProductRepository.class
 com\codebook\api\service\OrderService.class

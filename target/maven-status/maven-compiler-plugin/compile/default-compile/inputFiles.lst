@@ -6,6 +6,7 @@ C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment
 C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\exception\ErrorDto.java
 C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\repository\UserRepository.java
 C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\models\JwtRequest.java
+C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\config\CorsConfiguration.java
 C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\controller\UserAuthController.java
 C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\CodeBookApiApplication.java
 C:\Users\pc\Documents\Pankaj_Binwal\Backend\CodeBook\codebook_railway_deployment\src\main\java\com\codebook\api\jwt\JwtTokenHelper.java
